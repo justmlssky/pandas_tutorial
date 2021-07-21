@@ -26,4 +26,4 @@
   - 
 - ### Conclusion
 - ### Stay tuned for next
-- ### [Bonus: Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- ### [Bonus: Official Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
